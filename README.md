@@ -10,7 +10,7 @@ In this activity, I analyzed the financial records of a company. I was provided 
 * The greatest decrease in losses (date and amount) over the entire period.
 
 Lastly, I placed the results into an output txt file called PyBank.txt:
-
+```text
 Financial Analysis
 ----------------------------
 Total Months: 86
@@ -18,3 +18,4 @@ Total: $38382578
 Average Change: $446309.05
 Greatest Increase in Profits: Feb-2012 ($1170593)
 Greatest Decrease in Profits: Sep-2013 ($-1196225)
+```
